@@ -15,8 +15,8 @@ section {
 }
 
 #topBtn button {
-	width: 70px;
-	height: 50px;
+	width: 100px;
+	height: 80px;
 	font-size: 30px;
     border-radius: 10px;
     border: 2px solid coral;
@@ -41,9 +41,9 @@ section {
 	background-image: radial-gradient(#248f8b, #248f8b);
 }
 #stopBtn {
-	background-image: radial-gradient(rgb(138, 0, 0), red);
+	background-image: radial-gradient(rgb(219, 151, 127), coral);
 	display: none;
 }
 #stopBtn:hover {
-	background-image: radial-gradient(red, rgb(63, 37, 37));
+	background-image: radial-gradient(coral);
 }
